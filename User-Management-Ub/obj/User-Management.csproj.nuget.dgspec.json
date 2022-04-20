@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dark/Desktop/DotNet/User-Management/User-Management.csproj": {}
+  },
+  "projects": {
+    "/home/dark/Desktop/DotNet/User-Management/User-Management.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dark/Desktop/DotNet/User-Management/User-Management.csproj",
+        "projectName": "User-Management",
+        "projectPath": "/home/dark/Desktop/DotNet/User-Management/User-Management.csproj",
+        "packagesPath": "/home/dark/.nuget/packages/",
+        "outputPath": "/home/dark/Desktop/DotNet/User-Management/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dark/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

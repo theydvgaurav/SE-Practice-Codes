@@ -1,0 +1,15 @@
+/home/dark/Desktop/DotNet/Multi-Threading/bin/Debug/net6.0/Multi-Threading
+/home/dark/Desktop/DotNet/Multi-Threading/bin/Debug/net6.0/Multi-Threading.deps.json
+/home/dark/Desktop/DotNet/Multi-Threading/bin/Debug/net6.0/Multi-Threading.runtimeconfig.json
+/home/dark/Desktop/DotNet/Multi-Threading/bin/Debug/net6.0/Multi-Threading.dll
+/home/dark/Desktop/DotNet/Multi-Threading/bin/Debug/net6.0/Multi-Threading.pdb
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/Multi-Threading.csproj.AssemblyReference.cache
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/Multi-Threading.GeneratedMSBuildEditorConfig.editorconfig
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/Multi-Threading.AssemblyInfoInputs.cache
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/Multi-Threading.AssemblyInfo.cs
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/Multi-Threading.csproj.CoreCompileInputs.cache
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/Multi-Threading.dll
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/refint/Multi-Threading.dll
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/Multi-Threading.pdb
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/Multi-Threading.genruntimeconfig.cache
+/home/dark/Desktop/DotNet/Multi-Threading/obj/Debug/net6.0/ref/Multi-Threading.dll
